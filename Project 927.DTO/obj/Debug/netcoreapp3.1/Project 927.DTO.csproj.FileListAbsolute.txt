@@ -1,0 +1,18 @@
+C:\Users\mka\source\repos\Project 927\Project 927.DTO\bin\Debug\netcoreapp3.1\Project 927.DTO.deps.json
+C:\Users\mka\source\repos\Project 927\Project 927.DTO\bin\Debug\netcoreapp3.1\Project 927.DTO.dll
+C:\Users\mka\source\repos\Project 927\Project 927.DTO\bin\Debug\netcoreapp3.1\Project 927.DTO.pdb
+C:\Users\mka\source\repos\Project 927\Project 927.DTO\obj\Debug\netcoreapp3.1\Project 927.DTO.csprojAssemblyReference.cache
+C:\Users\mka\source\repos\Project 927\Project 927.DTO\obj\Debug\netcoreapp3.1\Project 927.DTO.AssemblyInfoInputs.cache
+C:\Users\mka\source\repos\Project 927\Project 927.DTO\obj\Debug\netcoreapp3.1\Project 927.DTO.AssemblyInfo.cs
+C:\Users\mka\source\repos\Project 927\Project 927.DTO\obj\Debug\netcoreapp3.1\Project 927.DTO.csproj.CoreCompileInputs.cache
+C:\Users\mka\source\repos\Project 927\Project 927.DTO\obj\Debug\netcoreapp3.1\Project 927.DTO.dll
+C:\Users\mka\source\repos\Project 927\Project 927.DTO\obj\Debug\netcoreapp3.1\Project 927.DTO.pdb
+D:\ШАГ\JavaScript\Angular\VS CursProject\Project 927\Project 927\Project 927.DTO\bin\Debug\netcoreapp3.1\Project 927.DTO.deps.json
+D:\ШАГ\JavaScript\Angular\VS CursProject\Project 927\Project 927\Project 927.DTO\bin\Debug\netcoreapp3.1\Project 927.DTO.dll
+D:\ШАГ\JavaScript\Angular\VS CursProject\Project 927\Project 927\Project 927.DTO\bin\Debug\netcoreapp3.1\Project 927.DTO.pdb
+D:\ШАГ\JavaScript\Angular\VS CursProject\Project 927\Project 927\Project 927.DTO\obj\Debug\netcoreapp3.1\Project 927.DTO.csprojAssemblyReference.cache
+D:\ШАГ\JavaScript\Angular\VS CursProject\Project 927\Project 927\Project 927.DTO\obj\Debug\netcoreapp3.1\Project 927.DTO.AssemblyInfoInputs.cache
+D:\ШАГ\JavaScript\Angular\VS CursProject\Project 927\Project 927\Project 927.DTO\obj\Debug\netcoreapp3.1\Project 927.DTO.AssemblyInfo.cs
+D:\ШАГ\JavaScript\Angular\VS CursProject\Project 927\Project 927\Project 927.DTO\obj\Debug\netcoreapp3.1\Project 927.DTO.csproj.CoreCompileInputs.cache
+D:\ШАГ\JavaScript\Angular\VS CursProject\Project 927\Project 927\Project 927.DTO\obj\Debug\netcoreapp3.1\Project 927.DTO.dll
+D:\ШАГ\JavaScript\Angular\VS CursProject\Project 927\Project 927\Project 927.DTO\obj\Debug\netcoreapp3.1\Project 927.DTO.pdb

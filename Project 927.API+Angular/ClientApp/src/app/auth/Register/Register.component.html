@@ -1,0 +1,24 @@
+<div class="wrapper fadeInDown">
+  <div id="formContent">
+    <!-- Tabs Titles -->
+    <h2 class="active"> Sign In </h2>
+
+    <!-- Login Form -->
+    <form class="login-form" #myForm="ngForm" (ngSubmit)="submitRegister()">
+      <input type="text" [(ngModel)]="model.Email" placeholder="Email" name="email" />
+        <input type="password" [(ngModel)]="model.Password"  placeholder="Passsword" name="password" />
+        <input type="password" [(ngModel)]="confirmPassword"  placeholder="Confirm password" name="confirm" />
+        <input type="text" [(ngModel)]="model.FullName"  placeholder="Full name" name="fullname" />
+        <input type="text" [(ngModel)]="model.Phone"  placeholder="Phone number" name="number" />
+        <input type="text" [(ngModel)]="model.Address"  placeholder="Address"  name="address" />
+        <input type="number" [(ngModel)]="model.Age"  placeholder="Age"  name="age" />
+        <input type="submit" class="fadeIn fourth" value="Log In">
+    </form>
+
+    <!-- Remind Passowrd -->
+    <div id="formFooter">
+      <a class="underlineHover" href="#">Forgot Password?</a>
+    </div>
+
+  </div>
+</div>

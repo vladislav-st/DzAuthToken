@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Project_927.Domain</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="3.1.1" />
+    <PackageReference Include="Microsoft.IdentityModel.Tokens" Version="6.10.1" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.10.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Project 927.DataAccess\Project 927.DataAccess.csproj" />
+  </ItemGroup>
+
+</Project>
